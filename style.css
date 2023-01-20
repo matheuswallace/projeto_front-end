@@ -14,7 +14,7 @@
 }
 
 section.main{
-    background-image: url('images/bg.svg');
+    background-image: url('bg.svg');
     background-position: center;
     background-size: cover;
     min-height: 700px;
